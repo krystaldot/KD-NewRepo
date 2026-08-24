@@ -1,0 +1,67 @@
+.logo{width:30.6%}
+.topbar{margin-left:10.7%;margin-right:10.7%;margin-bottom:0.1%}
+.topbarwrap{border-bottom:4px solid #40c0f2}
+.nav{margin-left:16%;height:100%;padding-bottom:1%;font-size:21px}
+.nav a{text-decoration:none;color:#3171b2}
+.nav a:hover{color:#3a89d9}
+.banner_1,.banner_2,.banner_5,.banner_6{position:relative}
+.content{position:absolute;top:21%;z-index:9;width:100%;text-align:center}
+.logoBackground{background-color:white; opacity: 0.9;position: relative; top: -106px; padding: 0px;margin-left: 610px;margin-right: 610px;border-radius: 10px;}
+.pBackground{background-color:darkslategray; opacity: 0.7;position: relative;padding: 20px;margin-left: 370px;margin-right: 370px;border-radius: 15px;}
+.banner_1 .cloud{width:190px;margin-bottom:1%;position: relative;left: 0px;top: 0px;}
+.banner_1 .cloudtext{width:27%;margin-bottom:0.5%;filter: brightness(0);}
+.banner_1 p{margin-bottom:10px;font-size:22px;color:white;}
+.banner_1 .gear{width:63px;margin-right:20px}
+.banner_1 .api{width:85px}
+.banner_1 .social{width:55px;margin-left:20px}
+
+.banner_2 .bg{height:560px;width:100%}
+.banner_2 .content{top:12%}
+.banner_2 span{margin-top:4%;width:48%;font-size:20px} 
+.banner_2 .cloud_category{margin-top:2%;width:50%}  
+.banner_2 .imgAboutUs{width: 450px}
+.banner_2 .container{margin-top:6%;width:57%}  
+
+.banner_3{padding:15px;background-color:#dbdbdb}
+.banner_3 .wwp{padding:0% 0% 0% 0%;}
+.banner_3 .wwp h1{margin-bottom:8%}
+.banner_3 .wwp div{display:flex;position:relative;margin-left:0%;margin-top: 0%;}
+.banner_3 .wwp span:first-child{position:absolute;top:-7px;font-size:40px;}
+.banner_3 .wwp span:nth-child(2){padding-left:5%;font-size:22px}
+.banner_3 .wwp_img_wrap{margin-top:15%;width:43.5%;margin-left:11.5%}
+.banner_3 .tech{font-size:26px;font-weight:bolder;text-align: center;margin-top:35px}
+.banner_3 .icons{margin-top:5%}
+.banner_3 .icons div{width:120px;text-align: center;}
+.banner_3 .icons span{display:block;font-size:13px}
+.banner_3 .commerce,.banner_3 .marketing,.banner_3 .sales,.banner_3 .services,.banner_3 .sforce{width:45px}
+.banner_4{background-color:white;padding:2%}
+.banner_4 .gybwrap{width: 197px;background-color:#fff;border-radius:50%;overflow:hidden;border:1px solid #c8c8c8;text-align:center}
+.banner_4 .gybwrap .gyb{width: 196px}
+.banner_4 .gybswrap{position:absolute;width:57px;background-color:#fff;border-radius:50%;overflow:hidden;border:1px solid #c8c8c8;text-align:center;top:141px;left:3px}
+.banner_4 .gybswrap .gybs{width:55px}
+.banner_4 .b4text{width:40%} 
+.banner_4 button{margin-top:2.5%}
+.banner_4 .gybbelow{width: 524px;margin-top: 83px;}
+.banner_4 .gybbelowtext{font-size:12px;font-weight:bold;width:524px}
+.banner_4 .gybbelowtext span{}
+
+
+
+.banner_5 img{width:100%;    filter: brightness(0.7);}
+.banner_5 .content{top:17%;color:white}
+.banner_5 span{margin-top:4%;width:47%;font-size:24px;font-weight:bold}
+.banner_6 img{width:100%;    filter: brightness(0.7);}
+.banner_6 .content{top:17%;color:white}
+.banner_6 span{margin-top:4%;width:51%;font-size:24px;font-weight:bold}
+.banner_7{padding-top:5%}
+.getintouch{margin: 0% 8% 2% 4.5%}
+.getintouch img{width:90.4%}
+.contactformhome{width: 60%;margin-left: 15%;}
+.contactformhome h1{margin-bottom:20%;color:#4720b7;margin-top:5%}
+.contactformhome form{color:black}
+.contactformhome input,.contactformhome textarea
+{border-radius:0;line-height:35px;border-top:none;border-left:none;border-right:none;border-bottom:1px solid black;outline:0;}
+.contactformhome input:hover,.contactformhome textarea:hover
+{border-top:1px solid black;border-left:1px solid black;border-right:1px solid black;outline:0}
+ button{color:#fff;background:#000;padding:10px;width:150px;margin-top:20px;font-weight:bolder}
+.banner_8{background-color:#f6f6f6;padding-top:30px}
